@@ -1,4 +1,4 @@
-OSF CAS by Center for Open Science
+OSF CAS by Center for Open Science =)
 ==================================
 
 `Master` Build Status: **TBI**
